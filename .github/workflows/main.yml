@@ -17,4 +17,4 @@ jobs:
         server: ftp.khandokershahid.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /photography.khandokershahid.com/shahid/
+        
